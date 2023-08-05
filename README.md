@@ -1,2 +1,2 @@
-# Personal-Info
-this repo contains some info about me such as cv file and more
+# Data Science Portfolio
+### this repo contains my projects in data science (skill based, end to end, ...), and also some courses or certificates i took
