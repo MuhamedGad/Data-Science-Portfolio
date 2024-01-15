@@ -6,9 +6,15 @@
 ## End to End Projects
 ---------
 <div align="center">
-  <h3>Skill Pilot</h3>
-  <img src="imgs/R.png" alt="Skill pilot" width="300" height="200">
+  <h3><a href="https://github.com/MuhamedGad/SkillPilot--End2End-Project">Skill Pilot</a></h3>
+
+  <img src="imgs/R.png" alt="Skill Pilot" width="600" height="400">
 </div>
+
+
+An end-to-end data science project that assists individuals in making informed decisions about their next steps in the software engineering industry.
+...
+
 
 **Description** : 
 
