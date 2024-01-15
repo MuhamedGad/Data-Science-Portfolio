@@ -29,6 +29,9 @@ The project uses the [Stackoverflow Yearly Suervey](https://survey.stackoverflow
 * Model Deployment
 * MLflow
 * Visualization ( mainly sued plotly and dash)
+
+**Team Members**
+Only me
   
 More Details : [Click Here](https://github.com/MuhamedGad/SkillPilot--End2End-Project)
 
@@ -37,7 +40,7 @@ More Details : [Click Here](https://github.com/MuhamedGad/SkillPilot--End2End-Pr
 <div align="center">
   <h3><a href="https://github.com/MuhamedGad/Farm-Vision">Farm Vision</a></h3>
 
-  <img src="imgs/R.png" alt="Skill Pilot" width="300" height="200">
+  <img src="imgs/Farm.png" alt="Skill Pilot" width="300" height="200">
 </div>
 
 
@@ -57,6 +60,13 @@ The project uses datasets from different resources such as Kaggle and Roboflow
 * Object Tracking
 * Error Analysis
 * yolov7
+
+**Team Members**
+Team of 5 members:
+One for the front-end (Web)
+One for the back-end
+One for the flutter (App)
+two for the AI
 
   More Details : [Click Here](https://github.com/MuhamedGad/Farm-Vision)
 
