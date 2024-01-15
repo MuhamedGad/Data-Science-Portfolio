@@ -11,10 +11,15 @@
 </div>
 
 **Description** : 
+
 An end-to-end data science project that assists individuals in making informed decisions about their next steps in the software engineering industry.
+
 **Data**: 
-the project uses the [Stackoverflow Yearly Suervey](https://survey.stackoverflow.co/)
+
+The project uses the [Stackoverflow Yearly Suervey](https://survey.stackoverflow.co/)
+
 **Skills & Tools**:
+
 * Data Preprocessing & Cleaning
 * Exploratory Data Analysis (EDA)
 * Feature Engineering
