@@ -77,4 +77,39 @@ two for the AI
 
   More Details : [Click Here](https://github.com/MuhamedGad/Farm-Vision)
 
+  -----------------
+
+<div align="center">
+  <h3><a href="https://github.com/MuhamedGad/Face-Lock-Extenstion">Face Lock</a></h3>
+
+  <img src="imgs/Lock.png" alt="Skill Pilot" width="300" height="200">
+</div>
+
+
+**Description** : 
+
+TabLock is a Chrome extension that protects your privacy by using face recognition as an extra layer of security for any domain you add. It keeps your sensitive data safe if you have shared your PC with someone or if there are some intrusive people in your life.
+
+**Data**: 
+
+The project takes the data from the user. Typically a 30 Secs Video
+
+**Skills & Tools**:
+
+* Image Processing
+* GAN
+* VGG16
+* MTCNN
   
+
+**Team Members** 
+
+Team of 3 members: 
+
+One for the front-end 
+One for the back-end 
+One for the AI part
+
+
+  More Details : [Click Here](https://github.com/MuhamedGad/Face-Lock-Extenstion/tree/main)
+
