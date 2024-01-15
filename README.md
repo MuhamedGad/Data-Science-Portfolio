@@ -8,7 +8,7 @@
 <div align="center">
   <h3><a href="https://github.com/MuhamedGad/SkillPilot--End2End-Project">Skill Pilot</a></h3>
 
-  <img src="imgs/R.png" alt="Skill Pilot" width="600" height="400">
+  <img src="imgs/R.png" alt="Skill Pilot" width="300" height="200">
 </div>
 
 
