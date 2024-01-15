@@ -40,7 +40,7 @@ More Details : [Click Here](https://github.com/MuhamedGad/SkillPilot--End2End-Pr
 <div align="center">
   <h3><a href="https://github.com/MuhamedGad/Farm-Vision">Farm Vision</a></h3>
 
-  <img src="imgs/Farm.png" alt="Skill Pilot" width="300" height="200">
+  <img src="imgs/Farm.jpg" alt="Skill Pilot" width="300" height="200">
 </div>
 
 
