@@ -30,8 +30,9 @@ The project uses the [Stackoverflow Yearly Suervey](https://survey.stackoverflow
 * MLflow
 * Visualization ( mainly sued plotly and dash)
 
-**Team Members**
+**Team Members** 
 Only me
+
   
 More Details : [Click Here](https://github.com/MuhamedGad/SkillPilot--End2End-Project)
 
@@ -61,12 +62,18 @@ The project uses datasets from different resources such as Kaggle and Roboflow
 * Error Analysis
 * yolov7
 
-**Team Members**
-Team of 5 members:
-One for the front-end (Web)
-One for the back-end
-One for the flutter (App)
-two for the AI
+**Team Members** 
+
+Team of 5 members: 
+
+One for the front-end (Web) 
+
+One for the back-end 
+
+One for the flutter (App) 
+
+two for the AI 
+
 
   More Details : [Click Here](https://github.com/MuhamedGad/Farm-Vision)
 
